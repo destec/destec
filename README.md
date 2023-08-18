@@ -1,18 +1,63 @@
 ### Hi there 👋
 
-<!--
-**destec/destec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center"><b>Hi , I'm 0xZach</b></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About me**
+
+<picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
+- An idealism backend developer
+- Enthusiastic in Web3 / blockchain
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
+<p align="center">
+
+- **Languages**:
+    
+    ![Node.js](https://img.shields.io/badge/Node.js%20-%23026E00.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/TypeScript%20-%233178C6?&logo=typescript&logoColor=white&style=for-the-badge)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Rust](https://img.shields.io/badge/Rust%20-%23A72145.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+- **Database**:
+
+    ![MongoDB](https://img.shields.io/badge/MongoDB%20-%2313AA52.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![Redis](https://img.shields.io/badge/Redis%20-%23963029.svg?style=for-the-badge&logo=redis&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![MariaDB](https://img.shields.io/badge/MariaDB%20-%23B47f5B.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+
+- **Softwares and Tools**:
+
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    ![Alibaba Cloud](https://img.shields.io/badge/Alibaba%20Cloud-FF8C1F?style=for-the-badge&logo=alibabacloud&logoColor=white)
+
+- **Extras**:
+
+    ![Shell](https://img.shields.io/badge/Shell-%23054020?style=for-the-badge&logo=powershell&logoColor=white)
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+
+</p>
+
+<br>
+
+---
+
+<br>
+
+Credit: [0xZach](https://github.com/destec)
+
+Last Edited on: 08/18/2023
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=destec&theme=flat&row=1&column=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
