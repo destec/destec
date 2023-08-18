@@ -25,7 +25,7 @@
     
     ![Node.js](https://img.shields.io/badge/Node.js%20-%23026E00.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
     ![TypeScript](https://img.shields.io/badge/TypeScript%20-%233178C6?&logo=typescript&logoColor=white&style=for-the-badge)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%232B5B84.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Rust](https://img.shields.io/badge/Rust%20-%23A72145.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 - **Database**:
