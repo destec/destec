@@ -20,7 +20,7 @@
     ![Python](https://img.shields.io/badge/Python%20-%232B5B84.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Rust](https://img.shields.io/badge/Rust%20-%23A72145.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-- **Database**:
+- **Databases**:
 
     ![MongoDB](https://img.shields.io/badge/MongoDB%20-%2313AA52.svg?style=for-the-badge&logo=mongodb&logoColor=white)
     ![Redis](https://img.shields.io/badge/Redis%20-%23963029.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -41,6 +41,8 @@
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 </p>
+
+---
 
 **GitHub Trophy**
 
