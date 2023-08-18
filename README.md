@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-<h1 align="center"><b>Hi , I'm 0xZach</b></h1>
-
 **About me**
 
 <picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
@@ -52,6 +49,10 @@
 
 <br>
 
+**GitHub Trophy**
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=destec&theme=flat&row=1&column=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 <br>
@@ -59,5 +60,3 @@
 Credit: [0xZach](https://github.com/destec)
 
 Last Edited on: 08/18/2023
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=destec&theme=flat&row=1&column=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
