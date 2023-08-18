@@ -2,21 +2,14 @@
 
 **About me**
 
-<picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
 - 💻 An idealism backend developer
 - ⛓️ Enthusiastic in Web3 / blockchain
 - 🏈 Currently playing rugby
 - 🖍️ Retired painter / graffiti writer
 
-<br>
-
 ---
 
-## <b>Skills</b>
-<br>
+**Skills**
 
 <p align="center">
 
@@ -48,8 +41,6 @@
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 </p>
-
-<br>
 
 **GitHub Trophy**
 
