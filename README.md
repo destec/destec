@@ -4,7 +4,7 @@
 
 - 💻 An idealism backend developer
 - ⛓️ Enthusiastic in Web3 / blockchain
-- 🏈 Currently playing rugby
+- 🏈 Currently playing football
 - 🖍️ Retired painter / graffiti writer
 
 ---
